@@ -1,0 +1,14 @@
+{
+  "name": "ride4me-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para mostrar estado de viajes sin branding de la empresa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  },
+  "license": "MIT"
+}
